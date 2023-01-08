@@ -6,7 +6,8 @@
 	"extends": [
 		"eslint:recommended",
 		"plugin:react/recommended",
-		"plugin:css/recommended"
+		"plugin:css/recommended",
+		"plugin:storybook/recommended"
 	],
 	"overrides": [],
 	"parserOptions": {
