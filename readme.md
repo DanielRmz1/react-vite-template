@@ -6,8 +6,9 @@ I have created this reusable template based on some recommendations from [React 
 
 To use this template just run the following commands:
 
+Clone this repo
+
 ```
-> npx degix DanielRmz1/react-vite-template#master your-project-name
 > npm i
 > npm run dev
 ```
