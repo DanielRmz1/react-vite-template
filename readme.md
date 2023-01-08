@@ -6,7 +6,11 @@ I have created this reusable template based on some recommendations from [React 
 
 To use this template just run the following commands:
 
-Clone this repo
+You can either clone this repo or 
+```
+> npx degit DanielRmz1/react-vite-template#master my-project
+
+```
 
 ```
 > npm i
