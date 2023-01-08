@@ -1,13 +1,8 @@
 import React from "react";
 import styles from "./styles.module.scss";
-import PropTypes from "prop-types";
 
-const App = ({ children }) => {
-	return <div className={styles.app}>{children}</div>;
-};
-
-App.propTypes = {
-	children: PropTypes.any.isRequired,
+const App = () => {
+	return <div className={styles.app}>Welcome</div>;
 };
 
 export default App;
